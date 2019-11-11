@@ -1,0 +1,1 @@
+# 1.-szakaszz-r-teszt
