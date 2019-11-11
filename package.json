@@ -1,0 +1,22 @@
+{
+  "name": "1.-szakaszzaro-teszt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "elso-szakaszzaro-teszt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dombimihaly89/1.-szakaszzaro-teszt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dombimihaly89/1.-szakaszzaro-teszt/issues"
+  },
+  "homepage": "https://github.com/dombimihaly89/1.-szakaszzaro-teszt#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
